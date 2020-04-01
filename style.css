@@ -104,12 +104,6 @@ p.button {
   margin: 5% 35%;
 }
 
-/*--------HOVER*/
-
-#question:hover {
-  box-shadow: 10px;
-}
-
 /*--------MOBILE*/
 
 @media only screen 
@@ -165,4 +159,7 @@ p.button {
       margin-top: 5%;
       width: 60%;
     }
+
+
+
   }
