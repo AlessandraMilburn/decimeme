@@ -1,3 +1,1 @@
-The Meme Says...
-
-Is a simple Javascript app that resembled the works of the Magic 8-ball however the results come out as memes.
+Decimeme is a simple static website that resembled the works of the Magic 8-ball toy where you ask a question but in Decimeme the results  come out as memes.
