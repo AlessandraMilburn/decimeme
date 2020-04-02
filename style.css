@@ -107,8 +107,7 @@ p.button {
 /*--------MOBILE*/
 
 @media only screen 
-  and (max-device-width: 812px) 
-  and (-webkit-min-device-pixel-ratio: 3) {
+  and (max-device-width: 1024px) {
     
     /* containers */
     main {
