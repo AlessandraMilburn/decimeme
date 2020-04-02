@@ -1,0 +1,3 @@
+The Meme Says...
+
+Is a simple Javascript app that resembled the works of the Magic 8-ball however the results come out as memes.
