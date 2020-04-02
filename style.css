@@ -159,6 +159,8 @@ p.button {
       margin-top: 5%;
       width: 60%;
       -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
       opacity: 1;
     }
 
