@@ -158,6 +158,7 @@ p.button {
     .button {
       margin-top: 5%;
       width: 60%;
+      -webkit-appearance: none;
     }
 
 
